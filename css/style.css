@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+html, body{
+    height: 100%;
+}
+
+body{
+    background-color: #E4E4E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wrapper{
+    width: 556px;
+    height: 630px;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.container{
+    width: 450px;
+    margin: 0 auto;
+}
+
+.block-autho{
+    margin: 20px 0 0 0;
+}
+
+.main-btn{
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+    font-weight: 400;
+}
+
+.btn-log-in{
+    margin: 0 10px 0 0;
+}
+
+.content{
+    margin: 20px 0 0 0;
+}
