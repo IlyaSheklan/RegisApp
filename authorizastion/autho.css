@@ -1,0 +1,40 @@
+.title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+form input {
+    outline: none;
+    width: 250px;
+    padding: 10px;
+    border: 0;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    margin: 0 0 8px 0;
+}
+
+.btn-block{
+    margin: 10px 0 0 0;
+}
+
+.btn-form{
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 10px 30px;
+    cursor: pointer;
+    transition-duration: 0.3s;
+    margin: 0 0 30px 0;
+}
+
+.btn-form:hover{
+    background-color: #000;
+    color: #fff;
+}
+
+.forgot-pass-link{
+    text-decoration: none;
+    color: #7a7a7a;
+}
