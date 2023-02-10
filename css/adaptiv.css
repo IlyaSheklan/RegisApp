@@ -1,0 +1,16 @@
+@media (max-width: 670px) {
+    body{
+        display: block;
+        background-color: #fff;
+    }
+
+    #wrapper{
+        box-shadow: none;
+        border-radius: none;
+        width: 100%;
+    }
+
+    .container{
+        padding: 30px;
+    }
+}

@@ -1,0 +1,26 @@
+.error-succes{
+    margin: 50px 0 0 0;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.error-block{
+    background-color: #f39292;
+}
+
+.error-succes__title{
+    font-weight: 600;
+    margin: 0 0 5px 0;
+}
+
+.error-succes__btn-block{
+    margin: 5px 0 0 0;
+}
+
+.error-succes__btn{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
